@@ -1,0 +1,22 @@
+{
+  "name": "Points",
+  "description": "",
+  "details": "Add points to cards!",
+  "icon": {
+    "url": "./images/logo.png"
+  },
+  "author": "Kevin Bongart",
+  "capabilities": [
+    "callback",
+    "card-badges",
+    "card-buttons"
+  ],
+  "connectors": {
+    "iframe": {
+      "url": "./index.html"
+    }
+  },
+  "recommend": {
+    "urls": []
+  }
+}
